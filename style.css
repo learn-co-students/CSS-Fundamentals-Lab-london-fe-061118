@@ -1,5 +1,11 @@
-body {
+e6body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto;
+}
+body {  text-align: center;
+}
+#details section
+  text-align: left;
+  
 }
